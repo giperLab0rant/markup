@@ -1,1 +1,1 @@
-http://giperlab0rant.github.io/markup
+http://giperLab0rant.github.io/markup
